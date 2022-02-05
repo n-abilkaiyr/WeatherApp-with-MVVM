@@ -46,8 +46,5 @@ class WeatherViewModel: WeatherViewModelProtocol {
         }
     }
     
-    private func getCurrentLocation() {
-       
-    }
     
 }
